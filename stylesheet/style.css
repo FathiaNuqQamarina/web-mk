@@ -1,0 +1,32 @@
+h1{
+    color: red;
+    font-size: 50px;
+    font-family: sans-serif;
+    background-color: aqua;
+    font-style: italic;
+    width: fit-content;
+    height: fit-content;
+    
+}
+
+li{
+    color: green;
+}
+
+.coba{
+    color: red;
+}
+
+header{
+    background-color: aqua;
+    width: 100px;
+    height: 200px;
+
+}
+
+main{
+    background-color: aqua;
+}
+
+
+
